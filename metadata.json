@@ -1,0 +1,8 @@
+{
+  "name": "Mordelón Smart Tags",
+  "description": "Plataforma premium de placas inteligentes QR para mascotas con geolocalización, perfiles dinámicos y alertas de seguridad en tiempo real.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
